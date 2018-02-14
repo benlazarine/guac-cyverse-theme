@@ -1,6 +1,5 @@
 {
-  "guacamoleVersion" : "*",
-
+  "guacamoleVersion": "*",
   "name" : "Jetstream Branding",
   "namespace" : "guac-cyverse-theme",
 
@@ -8,5 +7,18 @@
 
   "resources" : {
     "resources/jetstream-logo.png" : "image/png"
+
+  "html": [
+    "html/cyverse.html",
+    "html/help.html",
+    "html/copy_paste_help.html"
+  ],
+
+  "js": [
+    "js/help.js"
+  ],
+
+  "css": [ "css/help.css" ],
+
   }
 }
