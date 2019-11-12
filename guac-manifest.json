@@ -15,9 +15,5 @@
     "resources/jetstream-logo.png" : "image/png"
   },
 
-  "js": [
-    "js/help.js"
-  ],
-
   "css": [ "css/help.css" ]
 }
